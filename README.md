@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Khushi
 
-🎓 Second-year B.Tech Computer Engineering student
+🎓 Third-year B.Tech Computer Engineering student
 💻 Interested in programming, problem-solving, and building practical projects
 
 I enjoy understanding how software works at a deeper level—from core programming concepts to data structures and system logic. I work primarily with C, C++, and Python, and I’m expanding my skills in web development through hands-on projects.
@@ -22,7 +22,6 @@ Build strong computer science foundations
 
 Gain industry exposure through internships
 
-Prepare for GATE and pursue higher studies
 
 📌 I value depth, consistency, and clear thinking, and I’m always open to learning new technologies.
 
